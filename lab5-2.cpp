@@ -1,5 +1,5 @@
 //lab5-2.cpp - displays the total amount due
-//Created/revised by <your name> on <current date>
+//Created/revised by <Gregory Liburd> on <11/19/24>
 
 #include <iostream>
 #include <iomanip>
